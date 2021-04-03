@@ -1,0 +1,5 @@
+.vscode/
+venv/
+smile_detection.avi
+__pycache__/
+saved_model/
